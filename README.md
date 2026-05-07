@@ -1,4 +1,16 @@
-# FAI algorithms
+# Notes on the book: "Artificial Intelligence: A Modern Approach"
+
+## Algorithms
+
+Implementation of some graph based search algorithms.
+In the demo you can drag the cursor on the cells to create walls, then press play to see the algorithm in action
+
+### List of algorithms:
+
+- DFS ([demo](https://serene-lewin-d01df9.netlify.app/) | [code](https://github.com/thomasreolon/REACT-searchAlgorithms) )
+- A\* ([demo](https://serene-lewin-d01df9.netlify.app/) | [code](https://github.com/thomasreolon/REACT-searchAlgorithms) )
+- CSP ([code](algs/csp/solution.py))
+
 
 ## Theory
 
@@ -22,15 +34,3 @@ Summary of the chapters from the AIMA book up to chapter 13.
 | 12  | [Knowledge Representation](notes/AIMA.ch12.md) | intervals, categories, DL, semantic net |
 | 13  | [Uncertainity ](notes/AIMA.ch13.md)            | probability calculus                    |
 | 14  | [Probabilistic Reasoning ](notes/AIMA.ch14.md) | bayesian networks                       |
-
-## Algorithms
-
-Implementing some algorithms from the book `Artificial Intelligence: A Modern Approach`
-
-### List of algorithms:
-
-- DFS ([demo](https://serene-lewin-d01df9.netlify.app/) | [code](https://github.com/thomasreolon/REACT-searchAlgorithms) )
-- A\* ([demo](https://serene-lewin-d01df9.netlify.app/) | [code](https://github.com/thomasreolon/REACT-searchAlgorithms) )
-- CSP ([code](algs/csp/solution.py))
-
----
